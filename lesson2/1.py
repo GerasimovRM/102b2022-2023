@@ -14,4 +14,11 @@ print(st4 > st3)
 
 print('кот' in 'который')
 
+a = True
+b = False
+print(a or b, a and b, not a)
+
+print(not True or False and True)
+
+
 
